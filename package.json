@@ -1,0 +1,22 @@
+{
+  "name": "technical-test-lnk",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pistachio04/technical-test-lnk.git"
+  },
+  "author": "sigid",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pistachio04/technical-test-lnk/issues"
+  },
+  "homepage": "https://github.com/pistachio04/technical-test-lnk#readme",
+  "devDependencies": {
+    "cypress": "^13.6.6"
+  }
+}
